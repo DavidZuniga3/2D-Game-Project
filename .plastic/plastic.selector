@@ -1,0 +1,4 @@
+repository "918Game/2D Prototype@1375858291213@cloud"
+  path "/"
+    br "/main"
+    co "/main"
